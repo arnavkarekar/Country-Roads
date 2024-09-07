@@ -9,6 +9,8 @@ This project uses the **A* search algorithm** to find the fastest path between t
 - **Real-Time Visualization**: Visualizes the exploration process and final path using Pygame, drawing the paths in real time.
 - **Video Output**: Generates an MP4 video showing the complete pathfinding process, demonstrating the algorithm’s performance.
 
+![Country Roads Pathfinding Demo](./output.png)
+
 ## What You'll See in the Video
 The generated video shows the pathfinding process, including:
 - **Exploration Phase**: The A* algorithm explores possible routes.
